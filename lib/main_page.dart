@@ -59,7 +59,7 @@ class _MainPageState extends State<MainPage> {
         children: [
           SizedBox(height: 10),
 
-          Catergories(),
+          Categories(),
           SizedBox(height: 10),
           Container(
             width: double.infinity,
